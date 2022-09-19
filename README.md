@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Solidity, PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [vercel](vercel)
-
-- 📝 I regularly write articles on [grapql](grapql)
+- 👨‍💻 All of my projects are available at [my portfolio](https://babzzz.vercel.app/)
 
 - 💬 Ask me about **react, node and PHP**
 
