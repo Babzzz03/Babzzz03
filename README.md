@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://babzzz.vercel.app/)
 
-- 💬 Ask me about **react, node and PHP**
+- 💬 Ask me about **react, node and Three.js**
 
 - 📫 How to reach me **babawale.emmanuel10@gmail.com**
 
