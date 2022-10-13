@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Babzz</h1>
-<h3 align="center">A passionate Full-Stack-Developer from Nigeria</h3>
+<h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
