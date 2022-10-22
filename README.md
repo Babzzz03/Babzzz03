@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Babzz</h1>
+<h1 align="center">Hi 👋, I'm Babzzz</h1>
 <h3 align="center">A passionate Web developer. Love to build beautiful websites with latest tech available</h3>
 
 - 🌱 I’m currently learning **Solidity**
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://babzzz.vercel.app/)
 
-- 💬 Ask me about **react, node and Three.js**
+- 💬 Ask me about **react.js, node and Three.js**
 
 - 📫 How to reach me **babawale.emmanuel10@gmail.com**
 
